@@ -20,7 +20,6 @@ This project uses Python to analyze the 11 S&P 500 sector funds (SPDR Select Sec
 - Energy had the deepest drawdown (about -63%) and the biggest volatility spike, in early 2020.
 - Technology had the best return per unit of risk (about 1.02, vs about 0.90 for the S&P 500).
 - Energy moved the least with the rest of the market (correlation about 0.38 with Technology).
-- The first principal component explains about [check your latest output]% of sector return variance, so most sector movement comes from one market-wide factor.
 
 ## Limitations
 This analysis is descriptive. It uses historical price data only and does not predict future performance or give investment advice.
