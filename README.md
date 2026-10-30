@@ -4,7 +4,7 @@ How did different parts of the U.S. stock market behave through 2020 and 2022?
 
 This project uses Python to analyze the 11 S&P 500 sector funds (SPDR Select Sector ETFs) plus the S&P 500 (SPY), and Tableau to present the results.
 
-**Dashboard:** [add your Tableau Public link here]
+**Dashboard:** https://public.tableau.com/app/profile/jade.casas/viz/SectorPerformance20192026/HowU_S_StockMarketSectorsBehaved20192026?publish=yes
 
 ## What it does
 1. Downloads daily prices from Yahoo Finance using `yfinance`.
